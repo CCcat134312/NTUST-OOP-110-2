@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\實習\CS1010302W05\TS0503\main.cpp(18,41): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\實習\CS1010302W05\TS0503\main.cpp(27,39): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\實習\CS1010302W05\TS0503\main.cpp(36,33): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0503.vcxproj -> C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\實習\CS1010302W05\x64\Debug\TS0503.exe
