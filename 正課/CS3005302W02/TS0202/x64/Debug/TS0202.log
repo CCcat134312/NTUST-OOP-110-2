@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\正課\CS3005302W02\TS0202\main.cpp(22,25): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  TS0202.vcxproj -> C:\Users\linne\Documents\學校課程資料\物件導向程式設計\雙數\正課\CS3005302W02\x64\Debug\TS0202.exe
