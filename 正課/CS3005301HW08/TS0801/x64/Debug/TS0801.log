@@ -1,0 +1,30 @@
+﻿  Polynomial.cpp
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(24,2): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(46,37): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(46,70): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(53,30): warning C4244: '+=': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(55,30): warning C4244: '+=': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(85,37): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(85,70): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(92,30): warning C4244: '+=': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(94,30): warning C4244: '-=': 將 'const _Ty' 轉換為 'int'，由於類型不同，可能導致資料遺失
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(127,37): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(127,70): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\TS0801\Polynomial.cpp(169,14): warning C4244: '*=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  TS0801.vcxproj -> C:\Users\linne\Documents\學校課程資料\物件導向程式設計\單數\正課\CS3005301HW08\x64\Debug\TS0801.exe
