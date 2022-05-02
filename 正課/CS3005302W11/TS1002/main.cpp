@@ -1,6 +1,6 @@
-// Name: ªL«H¦ö
-// Date: 2022/5/2 ¤U¤È 04:32:41
-// Last Update: 2022/5/2 ¤U¤È 04:32:41
+// Name: ÂªLÂ«HÂ¦Ã¶
+// Date: 2022/5/2 Â¤UÂ¤Ãˆ 04:32:41
+// Last Update: 2022/5/2 Â¤UÂ¤Ãˆ 04:32:41
 // Problem statement: Word game
 #include <iostream>
 #include <fstream>
@@ -46,7 +46,7 @@ bool dfs(vector<string> table, string word, int index, Point now)
 				table[pTemp.x][pTemp.y] = '0';
 				if (dfs(table, word, index + 1, pTemp))
 					return true;
-				// if this path isn't connect make table recovey to the state that haven't choice this point
+				// if this path isn't connect make table recovery to the state that haven't choice this point
 				table[pTemp.x][pTemp.y] = cTemp;
 			}
 		}
