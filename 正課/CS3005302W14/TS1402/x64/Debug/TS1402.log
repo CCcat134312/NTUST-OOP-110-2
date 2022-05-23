@@ -1,0 +1,9 @@
+﻿  School.cpp
+M:\Document\VS競試\CS3005302W14\TS1402\School.h(31,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+M:\Document\VS競試\CS3005302W14\TS1402\School.h(32,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+M:\Document\VS競試\CS3005302W14\TS1402\School.cpp(50,38): warning C4244: '=': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  main.cpp
+M:\Document\VS競試\CS3005302W14\TS1402\School.h(31,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+M:\Document\VS競試\CS3005302W14\TS1402\School.h(32,14): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  正在產生程式碼...
+  TS1402.vcxproj -> M:\Document\VS競試\CS3005302W14\x64\Debug\TS1402.exe
